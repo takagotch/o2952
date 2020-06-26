@@ -1,7 +1,7 @@
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://takagotch.github.io"
 # the subpath of your site, e.g. /blog
-baseurl: "/page124"
+baseurl: "/page138"
 
 # Plugins de player - Jektify
 jektify:
@@ -17,10 +17,10 @@ jektify:
     other:
       dir: "way/to/your/SASS"
   title:
-    enable: false
+    enable: true
     text: "Music name"
   description:
-    enable: false
+    enable: true
     text: |
       Jekyll plugin to generate html snippets for embedding Spotify Musics.
       To listen to the full song, open your Spotify and start these musics.
@@ -60,7 +60,7 @@ compress_html:
   clippings: all
   comments: all
   endings: []
-  profile: false
+  profile: true
 
 tag_page_layout: tag
 tag_page_dir: blog/tags
