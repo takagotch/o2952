@@ -15,7 +15,6 @@ day_quote:
 ---
 
 
-{: toc}
 
 Hi! :hand:
 
