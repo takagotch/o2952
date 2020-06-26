@@ -22,8 +22,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "takagotch"
 description              : "取引量No.1！ *当社比"
 url                      : "https://takagotch.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/page103" # the subpath of your site, e.g. "/blog"
-repository               : "takagotch/page103" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/page138" # the subpath of your site, e.g. "/blog"
+repository               : "takagotch/page138" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
