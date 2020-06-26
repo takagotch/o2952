@@ -15,7 +15,6 @@ day_quote:
 ---
 
 
-* Do not remove this line (it will not be displayed)
 {: toc}
 
 Hi! :hand:
@@ -56,10 +55,7 @@ Content in the first column | Content in the second column
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-# * Item 1
-# * Item 2
-#  * Item 2a
-#  * Item 2b
+
 
 1. Item 1
 2. Item 2
